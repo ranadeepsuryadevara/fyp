@@ -1,0 +1,5 @@
+Pyttsx3
+SpeechRecognition
+Wikipedia
+Pillow
+Webbrowser
